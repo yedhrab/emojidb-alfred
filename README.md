@@ -1,6 +1,7 @@
 # EmojiDB Alfred
 
 - Search [emojidb](https://emojidb.org) to find all relative emojis for {query}
+- Enter to copy clipboard, ⌘ enter to open in emojipedia
 
 ![emojidb-alfred](.github/example.png)
 
